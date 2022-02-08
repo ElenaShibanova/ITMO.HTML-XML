@@ -1,0 +1,29 @@
+<?xml version = "1.0" encoding ="utf-8"?>
+<mycs:lessons xmlns:mycs = "http://www.itmo.ru/xml/lessons" xmlns:ref = "https://ru.wikipedia.org/wiki">
+    <mycs:course id="a">
+        <mycs:name>Курс №1</mycs:name>
+        <mycs:teacher>Преподаватель №1</mycs:teacher>
+        <mycs:time>18.30</mycs:time>
+        <mycs:begin>2022-02-07</mycs:begin>
+        <mycs:end>2022-02-15</mycs:end>
+        <ref:references>Источник №1</ref:references>
+    </mycs:course>
+
+    <mycs:course id="b">
+        <mycs:name>Курс №2</mycs:name>
+        <mycs:teacher>Преподаватель №2</mycs:teacher>
+        <mycs:time>18.30</mycs:time>
+        <mycs:begin>2022-03-07</mycs:begin>
+        <mycs:end>2022-03-15</mycs:end>
+        <ref:references>Источник №2</ref:references>
+    </mycs:course>
+
+   <mycs:course id="c">
+        <mycs:name>Курс №3</mycs:name>
+        <mycs:teacher>Преподаватель №3</mycs:teacher>
+        <mycs:time>18.30</mycs:time>
+        <mycs:begin>2022-04-07</mycs:begin>
+        <mycs:end>2022-04-15</mycs:end>
+        <ref:references>Источник №3</ref:references>
+    </mycs:course>
+</mycs:lessons>

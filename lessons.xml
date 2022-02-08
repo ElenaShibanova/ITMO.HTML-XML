@@ -1,0 +1,27 @@
+<?xml version = "1.0" encoding ="utf-8"?>
+<!DOCTYPE lessons SYSTEM "lessons_DTD.dtd">
+<lessons>
+    <course id="a">
+        <name>Курс №1</name>
+        <teacher>Преподаватель №1</teacher>
+        <time>18.30</time>
+        <begin>2022-02-07</begin>
+        <end>2022-02-15</end>
+    </course>
+
+    <course id="b">
+        <name>Курс №2</name>
+        <teacher>Преподаватель №2</teacher>
+        <time>18.30</time>
+        <begin>2022-03-07</begin>
+        <end>2022-03-15</end>
+    </course>
+
+    <course id="c">
+        <name>Курс №1</name>
+        <teacher>Преподаватель №3</teacher>
+        <time>18.30</time>
+        <begin>2022-04-07</begin>
+        <end>2022-04-15</end>
+    </course>
+</lessons>
