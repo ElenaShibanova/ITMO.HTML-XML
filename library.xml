@@ -1,0 +1,17 @@
+<?xml version = "1.0" encoding ="utf-8"?>
+<!DOCTYPE library SYSTEM "library_DTD.dtd">
+<library>
+    <book_catalog>
+        <book id ="123" year="2017" issue ="original">
+            <authors>
+                <author>Павловская Т.А.</author>
+            </authors>
+            <title>С/С++ программирование на языке высокого уровня</title>
+            <publishing>Питер</publishing>
+            <annotation>&linux; фврваопо &internet;</annotation>
+        </book>
+    </book_catalog>
+    <author_catalog>
+        <author_book idref="123">Павловская Т.А.</author_book>
+    </author_catalog>
+</library>
